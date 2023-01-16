@@ -105,9 +105,9 @@ expect(helloWorldProxy.hello).toEqual(['world', 'world']);
 
 #### Defined in
 
-[index.ts:68](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L68)
+[index.ts:68](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L68)
 
-[index.ts:77](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L77)
+[index.ts:77](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L77)
 
 # Interfaces
 
@@ -152,7 +152,7 @@ ProxyHandler.apply
 
 ##### Defined in
 
-[index.ts:78](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L78)
+[index.ts:78](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L78)
 
 ___
 
@@ -178,7 +178,7 @@ ProxyHandler.construct
 
 ##### Defined in
 
-[index.ts:80](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L80)
+[index.ts:80](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L80)
 
 ___
 
@@ -204,7 +204,7 @@ ProxyHandler.defineProperty
 
 ##### Defined in
 
-[index.ts:82](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L82)
+[index.ts:82](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L82)
 
 ___
 
@@ -229,7 +229,7 @@ ProxyHandler.deleteProperty
 
 ##### Defined in
 
-[index.ts:88](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L88)
+[index.ts:88](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L88)
 
 ___
 
@@ -255,7 +255,7 @@ ProxyHandler.get
 
 ##### Defined in
 
-[index.ts:90](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L90)
+[index.ts:90](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L90)
 
 ___
 
@@ -280,7 +280,7 @@ ProxyHandler.getOwnPropertyDescriptor
 
 ##### Defined in
 
-[index.ts:92](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L92)
+[index.ts:92](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L92)
 
 ___
 
@@ -304,7 +304,7 @@ ProxyHandler.getPrototypeOf
 
 ##### Defined in
 
-[index.ts:97](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L97)
+[index.ts:97](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L97)
 
 ___
 
@@ -329,7 +329,7 @@ ProxyHandler.has
 
 ##### Defined in
 
-[index.ts:99](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L99)
+[index.ts:99](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L99)
 
 ___
 
@@ -353,7 +353,7 @@ ProxyHandler.isExtensible
 
 ##### Defined in
 
-[index.ts:101](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L101)
+[index.ts:101](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L101)
 
 ___
 
@@ -377,7 +377,7 @@ ProxyHandler.ownKeys
 
 ##### Defined in
 
-[index.ts:103](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L103)
+[index.ts:103](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L103)
 
 ___
 
@@ -401,7 +401,7 @@ ProxyHandler.preventExtensions
 
 ##### Defined in
 
-[index.ts:105](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L105)
+[index.ts:105](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L105)
 
 ___
 
@@ -428,7 +428,7 @@ ProxyHandler.set
 
 ##### Defined in
 
-[index.ts:107](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L107)
+[index.ts:107](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L107)
 
 ___
 
@@ -453,4 +453,4 @@ ProxyHandler.setPrototypeOf
 
 ##### Defined in
 
-[index.ts:109](https://github.com/Atry/default-proxy-handler/blob/1ca37a6/src/index.ts#L109)
+[index.ts:109](https://github.com/Atry/default-proxy-handler/blob/f11445b/src/index.ts#L109)

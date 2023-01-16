@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Atry/default-proxy-handler/compare/v1.0.0...v1.0.1) (2023-01-16)
+
+
+### Dependencies and Other Build Updates
+
+* **deps:** remove unused doctest-ts-improved ([f11445b](https://github.com/Atry/default-proxy-handler/commit/f11445bcb9a83ca0a5a5038dac986cf19dbac1b5))
+
 ## 1.0.0 (2023-01-15)
 
 
