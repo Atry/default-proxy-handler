@@ -51,15 +51,13 @@
     "node": ">=12.0"
   },
   "keywords": [
-    "boilerplate",
-    "template",
+    "proxy",
+    "handler",
     "typescript",
-    "vscode",
-    "jest",
-    "husky",
-    "commitizen",
-    "semantic-release",
-    "codecov"
+    "util",
+    "utils",
+    "utility",
+    "utilities"
   ],
   "bugs": {
     "url": "https://github.com/Atry/default-proxy-handler/issues"
