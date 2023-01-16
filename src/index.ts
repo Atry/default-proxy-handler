@@ -35,7 +35,7 @@
  *
  * @example
  *
- * A proxy whose handler is an `DefaultProxyHandler` should be have the same
+ * A proxy whose handler is an `DefaultProxyHandler` should have the same
  * properties as the original object.
  *
  * ```typescript doctest
