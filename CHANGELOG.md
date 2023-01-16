@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Atry/default-proxy-handler/compare/v1.0.1...v1.0.2) (2023-01-16)
+
+
+### Dependencies and Other Build Updates
+
+* update keywords ([d55ed5a](https://github.com/Atry/default-proxy-handler/commit/d55ed5a7705e7cec1d537d6693bf45c905e75b78))
+
 ## [1.0.1](https://github.com/Atry/default-proxy-handler/compare/v1.0.0...v1.0.1) (2023-01-16)
 
 
